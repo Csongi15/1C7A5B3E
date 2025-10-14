@@ -26,10 +26,7 @@ Egy egyszerű űrlap, ahol a látogató saját „felhőállatát” is beküldh
 ## 🛠️ Fejlesztés
 
 **Technológiák:**
-- [Next.js 14](https://nextjs.org/)
-- [React](https://react.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- Next.js 
+- React
+- Tailwind CSS
 
-**Projekt létrehozása:**
-```bash
-npx create-next-app@latest 1C7A5B3E
