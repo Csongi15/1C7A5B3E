@@ -23,10 +23,16 @@ Egy egyszerű űrlap, ahol a látogató saját „felhőállatát” is beküldh
 
 ---
 
-## 🛠️ Fejlesztés
+##  Fejlesztés
 
 **Technológiák:**
 - Next.js 
 - React
 - Tailwind CSS
 
+Használtam mesterséges intelligenciát a git hibák megoldására. Témaválasztásra és a szükséges programok telepítése érdekében.
+
+**2025.10.15**
+Megcsináltam a servert ahogyan a tanárúr kérte valamint a 3 oldalt. A főoldal az alap /app mappában van és a további 2 oldalnak létrehoztam egy egy mappát a jobb átláthatóság érdekében. /lexikon/page.tsx és /kapcsolat/page.tsx 
+ChatGPT segítségét kértem a főoldal és lexikon megtervezéséhez.
+Hibák esetén is segítségül kértem, leginkább a Githubbal kapcsolatos gondok megoldására.
